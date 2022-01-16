@@ -61,3 +61,27 @@ La lista de jugadores se encuentra en el GameState, y es un array que no se pued
 Aunque ya tenemos la lista de tiempos de los jugadores, para esos usamos el tiempo del mundo y ya no usamos un contador. La razón es porque a veces el contador se retrasa mucho en comparación con el tiempo del servidor, y era mejor usar el "worldTime". Así que tenemos que cambiar eso también en el HUD. Para esto, usamos un "Timer" de UE, que cada segundo actualiza el texto que está mostrado en el HUD. No utilizamos un "EventTick" porque eso actualizaría demasiadas veces el texto innecesariamente, porque solo mostramos los segundos y no los microsegundos, ...
 
 Algo para notar es que aun los "worldTime" de los jugadores no son exactamente igual, y sería mejor que solamente el servidor guarda el tiempo. Pero al jugar el jugador no se va a dar cuenta, porque no va a estar con 3 ventanas jugando y ver que un cliente está retrasado 0,5 segundos. Por eso, al tener más tiempo sería algo para mejorar, pero no rompe el juego.
+
+#### Actualizar las pócimas para multijugador (Jan 5)
+Las pócimas tienen que funcionar igual que el lingote de oro. Ya que ahora se destruyen y después se aparecen de nuevo, ya sabemos que no va a funcionar por la misma razón que en el lingote de oro.
+
+Aunque aquí parecía que al principio funciono con el destruir del objeto, al fin si había un problema. Para cambiar la velocidad y la altura de saltar el servidor tiene que darse cuenta de que ha cambiado. Porque si no, vemos que el jugador, cuando está corriendo, hay como "glitches" y no se puede mover más rápido porque el servidor no sabe que el jugador puede ir tan rápido.
+
+Así que aquí también la solución es solo volver las pócimas invisibles, y hacer que no se puede aumentar más las habilidades si ya están aumentadas, porque aún habrá eventos de "overlap".  
+
+Arreglar que funcionan las pócimas y el lingote de oro de para el multijugador era la parte más difícil de este proyecto. Ya que la siguiente parte tiene un tutorial muy bien explicado (para la mayoría de las cosas que necesitaba), pero para arreglar esto no podio encontrar algo similar y tenía que intentar mucho con prueba y error.
+
+#### Menú principal (Jan 7)
+Desde aquí, empecé a seguir el tutorial sobre sesiones que he puesto al principio. Hemos empezado con crear un nivel que se llama MainMenu donde entramos al abrir el juego. También necesitamos un OnlineGameInstance para poner algunas partes de la lógica del multijugador y las sesiones.
+
+##### Los widgets
+Para empezar, necesitamos los widgets del menú con botones para empezar o unirte a una sesión. 
+
+El menu de empezar un sesion, es solo un boton. Pero para buscar sesiones necesitamos una forma de lista. Antes hemos usado el ListView para hacer una lista, pero el tutorial lo hizo con un VerticalBox. Me pareció mucho más fácil de esa manera que con el ListView. El VerticalBox lo llenamos con resultados de una búsqueda, y los resultados también lo ponemos en un widget separado que se llama SessionResult.
+
+[Todo screenshot van groen en rood scherm]
+
+##### Empezar, buscar y unirte a sesiones de LAN
+Ya que UE ya tiene funciones para todo esto, es únicamente usar StartSession, SearchSessions y JoinSession. Era mucho más fácil de lo que había esperado. Las funciones como "hostSession" después de presionar el botón "Host match" las ponemos en OnlineGameInstance. Al empezar una sesión el juego tiene que mandarte a otro nivel, el Lobby. Después los jugadores que se unen a tu sesión automáticamente se van al mismo Lobby.
+
+Aquí tenía que decidir si quiero hacer las sesiones por LAN o por Steam. Pero, ya que no tengo dos laptops para probar el juego, decidí usar LAN. Tampoco importa mucho, porque no es muy difícil conectarlo con Steam y funciona de la misma manera que LAN, solamente que tienes que cambiar la configuración en el fichero x!TODO!.
