@@ -85,3 +85,58 @@ El menu de empezar un sesion, es solo un boton. Pero para buscar sesiones necesi
 Ya que UE ya tiene funciones para todo esto, es únicamente usar StartSession, SearchSessions y JoinSession. Era mucho más fácil de lo que había esperado. Las funciones como "hostSession" después de presionar el botón "Host match" las ponemos en OnlineGameInstance. Al empezar una sesión el juego tiene que mandarte a otro nivel, el Lobby. Después los jugadores que se unen a tu sesión automáticamente se van al mismo Lobby.
 
 Aquí tenía que decidir si quiero hacer las sesiones por LAN o por Steam. Pero, ya que no tengo dos laptops para probar el juego, decidí usar LAN. Tampoco importa mucho, porque no es muy difícil conectarlo con Steam y funciona de la misma manera que LAN, solamente que tienes que cambiar la configuración en el fichero x!TODO!.
+
+----
+
+# Diseño del juego
+## Jugabilidad
+
+### Mecánicas
+
+**Salud**
+- El jugador se muere con un solo golpe o toque de un objeto enemigo.
+- Saltando en el agua matará al jugador.
+- El jugador se muere si no llega suficiente rápido desde el inicio hasta el fin del laberinto.
+- El jugador puede pasar un "checkpoint" para cambiar su ubicación de reaparición.
+
+**Movimientos**
+- El jugador puede soltar y maniobrarse para evitar objetos.
+- El jugador puede soltar más alto si toma una pócima roja.
+- El jugador puede correr más rápido si toma una pócima amarilla.
+
+**Menús**
+- Al entrar al juego, el jugador se encuentra en el menú inicial donde puede empezar o unirse a una sesión.
+- Después de unirse a una sesión, hay un menú de lobby. Ahí el jugador puede cambiar el color de su personaje. El jugador servidor puede empezar la carrera, mandando los jugadores al nivel con el castillo.
+- Al acabar el juego el jugador ve un menú final, con los tiempos de los otros jugadores que ya se han terminado la carrera. La lista de jugadores se va actualizando mientras más jugadores llegan al fin.
+
+### Dinámica
+- El jugador necesita evitar o los objetos enemigos para que no se muera.
+- El jugador necesita hacer sus movimientos (saltos, …) cuidadosamente para pasarlas pruebas y obstáculos del nivel.
+- El jugador tiene que tomar la pócima roja para pasar la prueba de saltos (escalar la muralla hasta llegar adentro).
+- El jugador necesita la pócima amarilla para llegar al fin del laberinto suficiente rápido.
+- El jugador debería llegar al lingote de oro para acabar con el juego, intentando de acabar antes de los otros jugadores.
+- El jugador puede intentar de llegar lo más rápido posible, tiene un temporizador para ver su tiempo.
+
+### Estética
+- El juego se ve muy real, usando paisajes, árboles, ... y fondos, para que el jugador se siente en un mundo que va más allá.
+- Hay neblina y nieve en el entorno para qué se ve un poco más misterioso.
+- El temporizador en el HUD debería darle un poco de estrés y sentimiento de prisa al jugador.
+- Todos los jugadores pueden elegir un color para poder diferenciar entre los jugadores.
+
+## Contenido
+
+### Los enemigos
+Los enemigos del jugador son objetos. Hay dos tipos:
+- Objetos móviles: Hay rocas en forma de bolas que se caen por la muralla, y después ruedan hacia el agua. El jugador no puede tocarlas o se muere y va al último punto de control. También hay los cubos de piedras que se mueven de un lado al otro, que pueden matar al jugador y mandarle al último punto de control.
+- Objetos estáticos: Son objetos que no se mueven, pero también pueden matar al jugador, como el agua o las cuerdas adentro del castillo.
+- Los otros jugadores: aunque no se pueden matar el uno al otro, si deberías ver los otros jugadores como un enemigo porque quieres intentar de llegar al fin antes de ellos.
+
+Además, hay una prueba especial que matara al jugador si no llega en un tiempo predeterminado. Aquí, el tiempo es el enemigo.
+
+### Aumentación de las habilidades
+- Las pócimas rojas: incrementan por unos segundos la altura de saltos del jugador
+- Las pócimas amarillas: incrementan por unos segundos la velocidad del jugador
+
+### Los niveles
+Hay un nivel en donde los jugadores hacen una carrera, con varias pruebas, que se puede encontrar aquí: https://github.com/freyavs/DEV21-VanSpeybroeck/wiki/Las-pruebas
+
