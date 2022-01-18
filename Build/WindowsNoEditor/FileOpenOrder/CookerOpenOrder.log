@@ -22,43 +22,43 @@
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 21
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 22
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 23
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/MainMenu/Widgets/ErrorMessage.uasset" 24
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/OnlineGameInstance.uasset" 25
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 24
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 25
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/List/PlayerData.uasset" 26
 "../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 27
 "../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 28
 "../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 29
 "../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 30
 "../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 31
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/InitialMenu.uasset" 32
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/List/PlayerDataObject.uasset" 33
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/List/ListViewEntry.uasset" 34
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/CustomPlayerState.uasset" 35
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/HUD.uasset" 32
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/InitialMenu.uasset" 33
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/List/PlayerDataObject.uasset" 34
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/List/ListViewEntry.uasset" 35
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/EndMenu.uasset" 36
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/ConfigurationMenu.uasset" 37
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Materials/BodyMaterial.uasset" 38
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 39
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 40
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 41
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 42
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 43
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonRun.uasset" 44
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 45
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 46
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 47
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 48
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 49
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 50
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/ThirdPersonCharacter.uasset" 51
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/InGameWidgets/HUD.uasset" 52
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/CustomPlayerController.uasset" 53
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 39
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 40
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 41
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonRun.uasset" 42
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 43
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 44
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 45
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 46
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 47
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 48
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/ThirdPersonCharacter.uasset" 49
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/MainMenu/Widgets/ErrorMessage.uasset" 50
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/OnlineGameInstance.uasset" 51
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/CustomPlayerController.uasset" 52
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/CustomPlayerState.uasset" 53
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/ThirdPersonGameMode.uasset" 54
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Widgets/PlayerInfoStruct.uasset" 55
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Widgets/PlayerCard.uasset" 56
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Widgets/LobbyClientScreen.uasset" 57
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/LobbyCharacter.uasset" 58
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Widgets/LoadingScreen.uasset" 59
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Widgets/LobbyHostScreen.uasset" 60
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Widgets/LoadingScreen.uasset" 57
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Widgets/LobbyHostScreen.uasset" 58
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Widgets/LobbyClientScreen.uasset" 59
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/LobbyCharacter.uasset" 60
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/LobbyController.uasset" 61
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/LobbyGameMode.uasset" 62
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/LobbyGameMode.uasset" 63
@@ -115,10 +115,10 @@
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Chair_M.uasset" 114
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/Materials/M_Chair.uasset" 115
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/SM_Couch.uasset" 116
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Door_N.uasset" 117
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Door_M.uasset" 118
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/Materials/M_Door.uasset" 119
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Glass.uasset" 120
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Glass.uasset" 117
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Door_N.uasset" 118
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Door_M.uasset" 119
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/Materials/M_Door.uasset" 120
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/SM_Door.uasset" 121
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 122
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 123
@@ -318,14 +318,14 @@
 "../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 317
 "../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 318
 "../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 319
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 320
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 321
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 322
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 323
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 324
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 325
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 326
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 320
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 321
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 322
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 323
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 324
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 325
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 326
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 327
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 328
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 329
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 330
@@ -333,311 +333,311 @@
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 332
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 333
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 334
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 335
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 336
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 335
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 336
 "../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 337
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 338
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 339
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 339
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 340
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 341
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 342
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 343
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 344
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_MacroVariation.uasset" 345
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 346
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 347
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 348
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 349
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Architecture/Wall_500x500.uasset" 350
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Architecture/Wall_400x200.uasset" 351
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 352
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 353
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 354
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 355
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 356
-"../../../Engine/Content/BasicShapes/Plane.uasset" 357
-"../../../Engine/Content/BasicShapes/Cube.uasset" 358
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 359
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 360
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Wood_Oak.uasset" 361
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 362
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 363
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 364
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 365
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 366
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 367
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Snow_N.uasset" 368
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Snow_A.uasset" 369
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 370
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Materials/Landscape_Material.uasset" 371
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 372
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 373
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/LevelMap_BuiltData.uasset" 374
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/ThirdPersonBP/Maps/LevelMap_sharedassets/Snow_LayerInfo.uasset" 375
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/MaterialSphere.uasset" 376
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/ThirdPersonBP/Rock_Blueprint.uasset" 377
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Lamp_N.uasset" 378
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Lamp_M.uasset" 379
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/Materials/M_Lamp.uasset" 380
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 381
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 382
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Yellow.uasset" 383
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 384
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Potions/SprintPotion_Blueprint.uasset" 385
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Red.uasset" 386
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Potions/JumpPotion_Blueprint.uasset" 387
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Obstacles/TrapRope_Blueprint.uasset" 388
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Shapes/Shape_Cube.uasset" 389
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 390
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 391
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 392
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 393
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Obstacles/MovingObstacle_Blueprint.uasset" 394
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 395
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 396
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Metal_Gold.uasset" 397
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Obstacles/GoldBar_Blueprint.uasset" 398
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/ThirdPersonBP/Maps/LevelMap_sharedassets/Grass_LayerInfo.uasset" 399
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 400
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 401
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 402
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 403
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 404
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Triggerboxes/MazeCompletedTriggerbox.uasset" 405
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Triggerboxes/DestructionTriggerbox.uasset" 406
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Triggerboxes/CheckpointTriggerbox.uasset" 407
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_04_low_VEC.uasset" 408
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_04_low_PIV.uasset" 409
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/WindTurblenceVectorAndGustMagnitude.uasset" 410
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShadingGrass.uasset" 411
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.uasset" 412
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/test2_rgb_PivotPos_a_ParentIndexInt_UV_2.uasset" 413
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset" 414
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/PP2_rgb_XVect_a_XExtent.uasset" 415
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 416
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 417
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodePostion.uasset" 418
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodeAxisVector.uasset" 419
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_Decode8BitAlphaAxisExtent.uasset" 420
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/PN_WindParameters.uasset" 421
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_WindAnimation.uasset" 422
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_Bending.uasset" 423
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 424
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_MultiBend.uasset" 425
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset" 426
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_ReturnParentTextureInfo.uasset" 427
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_CalculateMeshElementIndex.uasset" 428
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ms_PivotPainter2_UnpackIntegerAsFloat.uasset" 429
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 430
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float2.uasset" 431
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_AnimationShader.uasset" 432
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothThreshold.uasset" 433
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 434
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset" 435
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_AOSH.uasset" 436
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_A_.uasset" 437
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_O.uasset" 438
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_N.uasset" 439
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_AOSM.uasset" 440
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_A_01.uasset" 441
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Snow_AORH.uasset" 442
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_N.uasset" 443
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_AOSH.uasset" 444
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_A.uasset" 445
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 446
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 447
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.uasset" 448
-"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 449
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 450
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Winter.uasset" 451
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_MA.uasset" 452
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_trunk.uasset" 453
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_leaf.uasset" 454
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_branch.uasset" 455
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/imposter/Imposter_VEC.uasset" 456
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/imposter/Imposter_PIV.uasset" 457
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 458
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 459
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 460
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 461
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 462
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 463
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 464
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 465
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 466
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 467
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 468
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 469
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 470
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 471
-"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 472
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 473
-"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 474
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Imposter.uasset" 475
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_O.uasset" 476
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_N.uasset" 477
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_A.uasset" 478
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_04_imposter.uasset" 479
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_04_low.uasset" 480
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_03_low_VEC.uasset" 481
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_03_low_PIV.uasset" 482
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_MA.uasset" 483
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_trunk.uasset" 484
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_leaf.uasset" 485
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_branch.uasset" 486
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_O.uasset" 487
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_N.uasset" 488
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_A.uasset" 489
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_03_imposter.uasset" 490
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_03_low.uasset" 491
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_02_low_VEC.uasset" 492
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_02_low_PIV.uasset" 493
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_MA.uasset" 494
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_trunk.uasset" 495
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_leaf.uasset" 496
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_branch.uasset" 497
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_O.uasset" 498
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_N.uasset" 499
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_A.uasset" 500
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_02_imposter.uasset" 501
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_02_low.uasset" 502
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_01_low_VEC.uasset" 503
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_01_low_PIV.uasset" 504
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_MA.uasset" 505
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_trunk.uasset" 506
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_leaf.uasset" 507
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_branch.uasset" 508
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_O.uasset" 509
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_N.uasset" 510
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_A.uasset" 511
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_01_imposter.uasset" 512
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_01_low.uasset" 513
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_O.uasset" 514
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_N.uasset" 515
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_A_unlit.uasset" 516
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_03_imposter.uasset" 517
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_03_low_VEC.uasset" 518
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_03_low_PIV.uasset" 519
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_MA.uasset" 520
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_trunk.uasset" 521
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_leaf.uasset" 522
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_branch.uasset" 523
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_03_low.uasset" 524
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_O.uasset" 525
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_N.uasset" 526
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_A_unlit.uasset" 527
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_02_imposter.uasset" 528
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_02_low_VEC.uasset" 529
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_02_low_PIV.uasset" 530
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_MA.uasset" 531
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_trunk.uasset" 532
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_leaf.uasset" 533
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_branch.uasset" 534
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_02_low.uasset" 535
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_O.uasset" 536
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_N.uasset" 537
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_A_unlit.uasset" 538
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_01_imposter.uasset" 539
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_01_low_VEC.uasset" 540
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_01_low_PIV.uasset" 541
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_MA.uasset" 542
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_trunk.uasset" 543
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_leaf.uasset" 544
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_branch.uasset" 545
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_01_low.uasset" 546
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_03_imposter.uasset" 547
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_03_VEC.uasset" 548
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_03_PIV.uasset" 549
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_MA.uasset" 550
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_trunk.uasset" 551
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_leaf.uasset" 552
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_branch.uasset" 553
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_03.uasset" 554
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_02_imposter.uasset" 555
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_02_VEC.uasset" 556
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_02_PIV.uasset" 557
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_MA.uasset" 558
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_trunk.uasset" 559
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_leaf.uasset" 560
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_branch.uasset" 561
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_02.uasset" 562
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_01_imposter.uasset" 563
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_VEC.uasset" 564
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_PIV.uasset" 565
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_MA.uasset" 566
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_trunk.uasset" 567
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_leaf.uasset" 568
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_branch.uasset" 569
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_01.uasset" 570
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/03_Landscape/T_Water_N.uasset" 571
-"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 572
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 573
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ComponentPivotLocation.uasset" 574
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Sprite.uasset" 575
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 576
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 577
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 578
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 579
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureBomb_SingleSample.uasset" 580
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 581
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/Texture_Bombing.uasset" 582
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 583
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 584
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 585
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/FX/Wind/T_Masks.uasset" 586
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/01_Master/M_Water_Master.uasset" 587
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/03_Landscape/MI_Water.uasset" 588
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/T_Bush_R.uasset" 589
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/T_Bush_N.uasset" 590
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/T_Bush_BC.uasset" 591
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Megascans/Surfaces/CleanSnow/T_CleanSnow_N.uasset" 592
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Megascans/Surfaces/CleanSnow/T_CleanSnow_BC.uasset" 593
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/01_Master/MPC_General_Parameter_Collection.uasset" 594
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 595
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/01_Master/M_Vegetation.uasset" 596
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/MI_Vegetation.uasset" 597
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Medium_01.uasset" 598
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Medium_01_FoliageType.uasset" 599
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Large_02.uasset" 600
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Large_01.uasset" 601
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/T_Snow_Chunks_N.uasset" 602
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/01_Master/M_Snow_Chunks_Master.uasset" 603
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/MI_Snow_Chunks.uasset" 604
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_07.uasset" 605
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_07_FoliageType.uasset" 606
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_06.uasset" 607
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_06_FoliageType.uasset" 608
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_05.uasset" 609
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_05_FoliageType.uasset" 610
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_04.uasset" 611
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_04_FoliageType.uasset" 612
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_03.uasset" 613
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_03_FoliageType.uasset" 614
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_02.uasset" 615
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_02_FoliageType.uasset" 616
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_01.uasset" 617
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_01_FoliageType.uasset" 618
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_04_RMA.uasset" 619
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_04_N.uasset" 620
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_04_BC.uasset" 621
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_N.uasset" 622
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_01_RMA.uasset" 623
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_01_N.uasset" 624
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_01_BC.uasset" 625
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 626
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 627
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 628
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_Master.uasset" 629
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_04_Inst.uasset" 630
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/SM_Background_04.uasset" 631
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_03_RMA.uasset" 632
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_03_N.uasset" 633
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_03_BC.uasset" 634
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_03_Inst.uasset" 635
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/SM_Background_03.uasset" 636
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/LevelMap.umap" 637
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Lobby_BuiltData.uasset" 638
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Lobby.umap" 639
+"../../../Engine/Content/BasicShapes/Cube.uasset" 343
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 344
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Lobby_BuiltData.uasset" 345
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/Lobby/Lobby.umap" 346
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 347
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 348
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Architecture/Wall_500x500.uasset" 349
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Architecture/Wall_400x200.uasset" 350
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 351
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 352
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 353
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 354
+"../../../Engine/Content/BasicShapes/Plane.uasset" 355
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 356
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 357
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_MacroVariation.uasset" 358
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Wood_Oak.uasset" 359
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 360
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 361
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 362
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 363
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 364
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 365
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 366
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 367
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/LevelMap_BuiltData.uasset" 368
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/ThirdPersonBP/Maps/LevelMap_sharedassets/Snow_LayerInfo.uasset" 369
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/MaterialSphere.uasset" 370
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/ThirdPersonBP/Rock_Blueprint.uasset" 371
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Lamp_N.uasset" 372
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Lamp_M.uasset" 373
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/Materials/M_Lamp.uasset" 374
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 375
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 376
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/ThirdPersonBP/Maps/LevelMap_sharedassets/Grass_LayerInfo.uasset" 377
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 378
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 379
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 380
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 381
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 382
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Triggerboxes/MazeCompletedTriggerbox.uasset" 383
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Triggerboxes/DestructionTriggerbox.uasset" 384
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Triggerboxes/CheckpointTriggerbox.uasset" 385
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_O.uasset" 386
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_N.uasset" 387
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_A.uasset" 388
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/imposter/Imposter_VEC.uasset" 389
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/imposter/Imposter_PIV.uasset" 390
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 391
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.uasset" 392
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/test2_rgb_PivotPos_a_ParentIndexInt_UV_2.uasset" 393
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset" 394
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/PP2_rgb_XVect_a_XExtent.uasset" 395
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 396
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 397
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodePostion.uasset" 398
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodeAxisVector.uasset" 399
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_Decode8BitAlphaAxisExtent.uasset" 400
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/PN_WindParameters.uasset" 401
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/WindTurblenceVectorAndGustMagnitude.uasset" 402
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_WindAnimation.uasset" 403
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_Bending.uasset" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 405
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_MultiBend.uasset" 406
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset" 407
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_ReturnParentTextureInfo.uasset" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_CalculateMeshElementIndex.uasset" 409
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ms_PivotPainter2_UnpackIntegerAsFloat.uasset" 410
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 411
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float2.uasset" 412
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_AnimationShader.uasset" 413
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 414
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 415
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 417
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 418
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 419
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 421
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 422
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 423
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothThreshold.uasset" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 425
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 426
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 427
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 428
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 429
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 430
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 431
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Snow_A.uasset" 432
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 433
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 434
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Imposter.uasset" 435
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_04_imposter.uasset" 436
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShadingGrass.uasset" 437
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset" 438
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_AOSH.uasset" 439
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_A_.uasset" 440
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_O.uasset" 441
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_N.uasset" 442
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_AOSM.uasset" 443
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_A_01.uasset" 444
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Snow_N.uasset" 445
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Snow_AORH.uasset" 446
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_N.uasset" 447
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_AOSH.uasset" 448
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_A.uasset" 449
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 451
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.uasset" 452
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Winter.uasset" 453
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_04_low_VEC.uasset" 454
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_04_low_PIV.uasset" 455
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_MA.uasset" 456
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_trunk.uasset" 457
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_leaf.uasset" 458
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_branch.uasset" 459
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_04_low.uasset" 460
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_O.uasset" 461
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_N.uasset" 462
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_A.uasset" 463
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_03_imposter.uasset" 464
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_03_low_VEC.uasset" 465
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_03_low_PIV.uasset" 466
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_MA.uasset" 467
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_trunk.uasset" 468
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_leaf.uasset" 469
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_branch.uasset" 470
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_03_low.uasset" 471
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_O.uasset" 472
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_N.uasset" 473
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_A.uasset" 474
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_02_imposter.uasset" 475
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_02_low_VEC.uasset" 476
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_02_low_PIV.uasset" 477
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_MA.uasset" 478
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_trunk.uasset" 479
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_leaf.uasset" 480
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_branch.uasset" 481
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_02_low.uasset" 482
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_O.uasset" 483
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_N.uasset" 484
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_A.uasset" 485
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_01_imposter.uasset" 486
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_01_low_VEC.uasset" 487
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_01_low_PIV.uasset" 488
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_MA.uasset" 489
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_trunk.uasset" 490
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_leaf.uasset" 491
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_branch.uasset" 492
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_01_low.uasset" 493
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_O.uasset" 494
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_N.uasset" 495
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_A_unlit.uasset" 496
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_03_imposter.uasset" 497
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_03_low_VEC.uasset" 498
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_03_low_PIV.uasset" 499
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_MA.uasset" 500
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_trunk.uasset" 501
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_leaf.uasset" 502
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_branch.uasset" 503
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_03_low.uasset" 504
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_O.uasset" 505
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_N.uasset" 506
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_A_unlit.uasset" 507
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_02_imposter.uasset" 508
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_02_low_VEC.uasset" 509
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_02_low_PIV.uasset" 510
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_MA.uasset" 511
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_trunk.uasset" 512
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_leaf.uasset" 513
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_branch.uasset" 514
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_02_low.uasset" 515
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_01_low_VEC.uasset" 516
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_01_low_PIV.uasset" 517
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_MA.uasset" 518
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_branch.uasset" 519
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_O.uasset" 520
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_N.uasset" 521
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_A_unlit.uasset" 522
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_01_imposter.uasset" 523
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_trunk.uasset" 524
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_leaf.uasset" 525
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_01_low.uasset" 526
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_03_VEC.uasset" 527
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_03_PIV.uasset" 528
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_MA.uasset" 529
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_trunk.uasset" 530
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_leaf.uasset" 531
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_branch.uasset" 532
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_03_imposter.uasset" 533
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_03.uasset" 534
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_02_VEC.uasset" 535
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_02_PIV.uasset" 536
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_MA.uasset" 537
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_trunk.uasset" 538
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_leaf.uasset" 539
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_branch.uasset" 540
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_02_imposter.uasset" 541
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_02.uasset" 542
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_VEC.uasset" 543
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_PIV.uasset" 544
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_MA.uasset" 545
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_trunk.uasset" 546
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_leaf.uasset" 547
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_branch.uasset" 548
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_01_imposter.uasset" 549
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_01.uasset" 550
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Yellow.uasset" 551
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 552
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Potions/SprintPotion_Blueprint.uasset" 553
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Red.uasset" 554
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Potions/JumpPotion_Blueprint.uasset" 555
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Obstacles/TrapRope_Blueprint.uasset" 556
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Shapes/Shape_Cube.uasset" 557
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 558
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 559
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 560
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 561
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Obstacles/MovingObstacle_Blueprint.uasset" 562
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 563
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 564
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Materials/M_Metal_Gold.uasset" 565
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Obstacles/GoldBar_Blueprint.uasset" 566
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 567
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 568
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 569
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 570
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 571
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Materials/Landscape_Material.uasset" 572
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/03_Landscape/T_Water_N.uasset" 573
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 574
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 575
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ComponentPivotLocation.uasset" 576
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Sprite.uasset" 577
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 578
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 579
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 580
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 581
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureBomb_SingleSample.uasset" 582
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 583
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/Texture_Bombing.uasset" 584
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 585
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 586
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 587
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/FX/Wind/T_Masks.uasset" 588
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/01_Master/M_Water_Master.uasset" 589
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/03_Landscape/MI_Water.uasset" 590
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/T_Bush_R.uasset" 591
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/T_Bush_N.uasset" 592
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/T_Bush_BC.uasset" 593
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Megascans/Surfaces/CleanSnow/T_CleanSnow_N.uasset" 594
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Megascans/Surfaces/CleanSnow/T_CleanSnow_BC.uasset" 595
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/01_Master/MPC_General_Parameter_Collection.uasset" 596
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 597
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/01_Master/M_Vegetation.uasset" 598
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/MI_Vegetation.uasset" 599
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Medium_01.uasset" 600
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Medium_01_FoliageType.uasset" 601
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Large_02.uasset" 602
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Large_01.uasset" 603
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/T_Snow_Chunks_N.uasset" 604
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Material/01_Master/M_Snow_Chunks_Master.uasset" 605
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/MI_Snow_Chunks.uasset" 606
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_07.uasset" 607
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_07_FoliageType.uasset" 608
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_06.uasset" 609
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_06_FoliageType.uasset" 610
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_05.uasset" 611
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_05_FoliageType.uasset" 612
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_04.uasset" 613
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_04_FoliageType.uasset" 614
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_03.uasset" 615
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_03_FoliageType.uasset" 616
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_02.uasset" 617
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_02_FoliageType.uasset" 618
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_01.uasset" 619
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_01_FoliageType.uasset" 620
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_04_RMA.uasset" 621
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_04_N.uasset" 622
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_04_BC.uasset" 623
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_N.uasset" 624
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_01_RMA.uasset" 625
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_01_N.uasset" 626
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_01_BC.uasset" 627
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 628
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 629
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 630
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_Master.uasset" 631
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_04_Inst.uasset" 632
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/SM_Background_04.uasset" 633
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_03_RMA.uasset" 634
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_03_N.uasset" 635
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/T_Background_03_BC.uasset" 636
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_03_Inst.uasset" 637
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/AutomotiveWinterScene/CustomAssets/Background/SM_Background_03.uasset" 638
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/LevelMap.umap" 639
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/MainMenu/MainMenu_BuiltData.uasset" 640
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/SpecificGameClasses/Multiplayer/OnlineMenuSystem/MainMenu/MainMenu.umap" 641
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 642
@@ -792,9 +792,9 @@
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Particles/P_Steam_Lit.uasset" 791
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Audio/Steam01_Cue.uasset" 792
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 793
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Spark_Core.uasset" 794
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Particles/Materials/M_Spark.uasset" 795
-"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 796
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 794
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Textures/T_Spark_Core.uasset" 795
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Particles/Materials/M_Spark.uasset" 796
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Particles/P_Sparks.uasset" 797
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 798
 "../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practicaFinal/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 799
