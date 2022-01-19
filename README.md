@@ -146,24 +146,6 @@ Para probar el juego, he puesto un lingote de oro ya entes del laberinto para po
 
 En el menú principal, no me daba cuenta de como probar que sale el error cuando hay un problema con las sesiones en el menú principal. Porque aunque ponía el ordenador en modo, algunas cosas seguían funcionando porque estamos en LAN y no en una conexión de Steam. 
 
-#### Botones para salir e ir al menú principal (Jan 18)
-Implementar el botón de salir del juego era muy simple, pero el botón para volver al menú principal no tanto. 
-
-Solamente abrir el nivel del menú principal no era suficiente, porque después el jugador cliente ya no podía empezar o unirse a otra sesión. Así que al entrar el menú principal, tenemos que llamar a "destroySession" para que salga de su sesión antigua.
-
-Esto funciona para el jugador cliente, pero si sale el jugador servidor (al salir del juego o volver al menú principal), el juego se cierra para todos con un error. Por eso, antes de que el servidor se vaya, tenemos que mandar a todos los clientes al menú principal. En ese caso también queremos que salga un error "Host has left the game". 
-
-Aquí otra vez tenemos que usar el AuthoritySwitch que nos facilita dar otro compartimiento al servidor que al cliente al presionar "salir" o "volver a jugar". En el caso del servidor, tiene que buscar todos los controladores (menos el controlador del servidor) y hacer que llaman a su "leaveSessionInProgress", pasando un "optionString" al abrir del nivel del menú principal. Usando en el MainMenuGameMode un "switchOnString" podemos hacer que salga un error cuando el "optionString" es igual a "hostLeft". 
-
-Después de mandar todos los jugadores al menú principal, necesitamos un poco de retraso antes de que el servidor se vaya, porque si no, no hay suficiente tiempo para mandar todos los jugadores con éxito al menú principal.
-
-
-Queda un único problema, cuando el jugador se va del juego, ya no está en la lista de jugadores y ya no sale en el menú final. Aunque tendría sentido, sería mejor guardarlo en una lista global. Aunque eso significa que tendríamos que cambiar mucho del sistema de como se hace ahora la lista final, así que lo dejamos para una versión futura.
-
-#### Menú de pausa (Jan 18)
-Al presionar "esc" o "p" el jugador puede ver los botones que hemos implementado arriba, "salir" y "volver a jugar". Aunque no realmente es un menú de pausa, porque estamos haciendo una carrera, así que el tiempo sigue contando.
-
-
 #### Mejoras después de probar el juego
 
 ##### Cámara del lobby
