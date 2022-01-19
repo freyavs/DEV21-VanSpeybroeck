@@ -219,6 +219,8 @@ Además, hay una prueba especial que matara al jugador si no llega en un tiempo 
 ### Aumentación de las habilidades
 - Las pócimas rojas: incrementan por unos segundos la altura de saltos del jugador
 - Las pócimas amarillas: incrementan por unos segundos la velocidad del jugador
+![Captura2](https://user-images.githubusercontent.com/56410697/150217721-99ceea12-38d3-4a2f-a03d-00641c669500.PNG)
+
 
 ### Los niveles
 Hay un nivel en donde los jugadores hacen una carrera, con varias pruebas, que se puede encontrar aquí: https://github.com/freyavs/DEV21-VanSpeybroeck/wiki/Las-pruebas
