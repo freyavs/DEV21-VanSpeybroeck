@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1-nsPY7wLYv1z1CdcQywhrtV9cdF517tH/view?usp=shari
 - Lo mismo, pero abriéndolo en "Standalone game". El problema aquí es que es mucho más pesado para tu ordenador que la primera opción. 
 - Presionando "esc" o "p" puedes salir con tu cursor de la ventana y ir a otra. (Aunque "esc" no funcione en la opcion de "new editor window (PIE)".
 
-# El proyecto (proyecto final)
+# El proyecto
 Esto es una practica libre, así que podemos elegir lo que queremos hacer. He decidido hacer un juego multijugador. Al pensar lo que querría hacer, me di cuenta de que ya tengo un juego de la tercera práctica donde el jugador tiene que pasar unas pruebas lo más rápido posible. Eso se podría convertir en un juego con más jugadores para hacer una carrera.
 
 Para este proyecto, he usado la tercera práctica que hicimos en el curso de "desarrollo de videojuegos". Así que tiene el mismo mundo y las mismas pruebas: el jugador tiene que cruzar el agua saltando sobre troncos, escalar un castillo y al fin encontrar el lingote de oro. 
