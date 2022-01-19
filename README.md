@@ -115,6 +115,33 @@ Además, querría añadir unas pantallas mientras está cargando el juego. Prime
 
 Al mandar los jugadores al juego desde el lobby, el servidor puede ver los jugadores desapareciendo. Por eso añadí una pantalla de carga cuando el servidor presiona el botón para empezar el juego (y en los clientes no, aunque podría ser bien añadir eso también).
 
+## Postproducción (Jan 15)
+#### Pruebas
+Para probar el juego, he puesto un lingote de oro ya entes del laberinto para poder hacer las pruebas fácilmente.
+
+En el menú principal, no me daba cuenta de como probar que sale el error cuando hay un problema con las sesiones en el menú principal. Porque aunque ponía el ordenador en modo, algunas cosas seguían funcionando porque estamos en LAN y no en una conexión de Steam. 
+
+#### Mejoras después de probar el juego
+
+##### Cámara del lobby
+La cámara en el lobby funcionaba para el servidor o el host, pero cuando entraba un cliente después de más o menos un segundo la cámara estaba yendo al cuerpo del jugador. Para hacer que no se mueva la cámara al entrar en el lobby, tuve que desactivar la opción "auto manage active camera" en el controlador.
+
+#### Colores por defecto
+Al probar un poco el lobby, me di cuenta de que cuando un cliente no elige un color, el servidor lo verá como negro. Por eso, al entrar en el lobby ya le tenemos que dar un color predeterminado a los jugadores - en este caso blanco/gris.
+
+#### Problemas con los tiempos finales en el menú final
+Primero, el tiempo final arriba en el menú y lo que sale en la lista no era igual. Eso fue porque estábamos usando el tiempo del mundo y no el tiempo que tenía el jugador en su PlayerState, así que podría ser que esos dos tiempos tenían un poquito de diferencia porque no se guardan al mismo tiempo.
+
+Y de alguna forma no me di cuenta hasta muy tarde que los tiempos finales aún se estaban actualizando al tocar el oro invisible, así que tuve que arreglar eso también.
+
+#### Cursor e input del menú final
+Al llegar al fin, el jugador no puede tocar los botones porque su input sigue siendo solamente del juego. Así que al tocar el oro se tiene que mostrar el cursor y tener input del UI. También añadí que presionando el botón "esc" o "p" que puedes dejar aparecer y desaparecer el menú final.
+
+#### Actualización de la lista de jugadores en el menú final
+Al jugar el juego en con varios clientes de forma "Standalone game", el juego va muy lento porque abrir esas ventanas en un solo ordenador es muy pesado. Pero, por eso me di cuenta de que no siempre todos los jugadores que han terminado aparecen en la lista en el menú final. Pero, puede ser que al llamar la función que actualiza las listas, ese cliente todavía no se ha dado cuenta del nuevo jugador que haya terminado. Por eso, cuando actualizamos la lista, pero no añadimos un nuevo jugador, significa que aún estamos esperando a conseguir el tiempo final del jugador que acaba de terminar. En ese caso tenemos que actualizar la lista de nuevo hasta que tenemos más jugadores que la lista de antes.
+
+La verdad es que esta parte, al fin, pienso que podría tener más sentido usar algo más optimal para multijugador. Pero al hacer esta parte todavía estaba experimentando mucho con como funcionaba todo en multijugador. Puede ser que lo he planeado mal y podría haber sido mejor primero jugar un poco con las sesiones en vez de convertir el juego.
+
 ----
 
 # Diseño del juego
