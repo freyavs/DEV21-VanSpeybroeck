@@ -1,6 +1,11 @@
 Enlace al .exe (comprimido): 
 https://drive.google.com/file/d/1-nsPY7wLYv1z1CdcQywhrtV9cdF517tH/view?usp=sharing
 
+##### Importante: como probar el juego con varios clientes:
+- Jugar desde el editor, abriendo el juego con "new editor window (PIE)". Puedes elegir tantos clientes como quieras, y seleccionas "Play as Client".
+- Lo mismo, pero abriéndolo en "Standalone game". El problema aquí es que es mucho más pesado para tu ordenador que la primera opción. 
+- Presionando "esc" o "p" puedes salir con tu cursor de la ventana y ir a otra. (Aunque "esc" no funcione en la opcion de "new editor window (PIE)".
+
 # El proyecto (proyecto final)
 Esto es una practica libre, así que podemos elegir lo que queremos hacer. He decidido hacer un juego multijugador. Al pensar lo que querría hacer, me di cuenta de que ya tengo un juego de la tercera práctica donde el jugador tiene que pasar unas pruebas lo más rápido posible. Eso se podría convertir en un juego con más jugadores para hacer una carrera.
 
