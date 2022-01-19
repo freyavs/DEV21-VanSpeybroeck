@@ -1,4 +1,4 @@
-TODO: screenshot spel
+![Captura](https://user-images.githubusercontent.com/56410697/150217715-dd0a949a-7567-41c0-91df-8b80e385e0af.PNG)
 
 
 Enlace al .exe (comprimido): 
