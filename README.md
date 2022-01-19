@@ -1,3 +1,6 @@
+TODO: screenshot spel
+
+
 Enlace al .exe (comprimido): 
 https://drive.google.com/file/d/1-nsPY7wLYv1z1CdcQywhrtV9cdF517tH/view?usp=sharing
 
@@ -203,3 +206,5 @@ Además, hay una prueba especial que matara al jugador si no llega en un tiempo 
 ### Los niveles
 Hay un nivel en donde los jugadores hacen una carrera, con varias pruebas, que se puede encontrar aquí: https://github.com/freyavs/DEV21-VanSpeybroeck/wiki/Las-pruebas
 
+### Los menus
+Los menus (Menu Principal y Lobby) los muestro aqui: https://github.com/freyavs/DEV21-VanSpeybroeck/wiki/Los-menus
