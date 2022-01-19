@@ -49,8 +49,6 @@ Primero, los tiempos de los otros jugadores siempre están en 0, y solo vemos nu
 
 Pero aún hay otro problema. Lo que pasa ahora es que desde el momento que se destruye el lingote de oro, ese jugador ya no recibirá las actualizaciones de los otros jugadores que terminan después de él. Para encontrar el problema he tenido que utilizar muchos sprints en todos lados para ver cuál es el problema, si hay algo con la comunicación entre cliente-servidor, ... En multijugador a veces no es tan fácil entender por qué algo no funciona.
 
-[todo: insert screenshot van prints]
-
 Al fin el problema tenía mucho sentido. Al destruir el lingote, ese cliente ya no lo tiene, así que si otros jugadores tocan el lingote, ese "overlap event" ya no pasa en el cliente porque ya no tiene el lingote en su mundo. La solución era poner el lingote en invisible en vez de destruirlo, y asegurarnos de que los "overlap events" solo actualizan el tiempo de los jugadores que todavía no han terminado.
 
 Cada vez que termina un jugador, usamos un "authority switch" y un evento que está llamado por el servidor y NO por los clientes, así que solamente se ejecuta en el servidor, y el servidor avisa a los clientes. (Esta es una opción de "replicate" llamado "run on server"). El evento dice a todos los controladores que tienen que actualizar su lista de jugadores terminados. Así que cada controlador va ordenando la nueva lista de jugadores con sus tiempos, borran el menú final actual, y lo muestran de nuevo con la nueva lista.
@@ -79,12 +77,43 @@ Para empezar, necesitamos los widgets del menú con botones para empezar o unirt
 
 El menu de empezar un sesion, es solo un boton. Pero para buscar sesiones necesitamos una forma de lista. Antes hemos usado el ListView para hacer una lista, pero el tutorial lo hizo con un VerticalBox. Me pareció mucho más fácil de esa manera que con el ListView. El VerticalBox lo llenamos con resultados de una búsqueda, y los resultados también lo ponemos en un widget separado que se llama SessionResult.
 
-[Todo screenshot van groen en rood scherm]
-
 ##### Empezar, buscar y unirte a sesiones de LAN
 Ya que UE ya tiene funciones para todo esto, es únicamente usar StartSession, SearchSessions y JoinSession. Era mucho más fácil de lo que había esperado. Las funciones como "hostSession" después de presionar el botón "Host match" las ponemos en OnlineGameInstance. Al empezar una sesión el juego tiene que mandarte a otro nivel, el Lobby. Después los jugadores que se unen a tu sesión automáticamente se van al mismo Lobby.
 
-Aquí tenía que decidir si quiero hacer las sesiones por LAN o por Steam. Pero, ya que no tengo dos laptops para probar el juego, decidí usar LAN. Tampoco importa mucho, porque no es muy difícil conectarlo con Steam y funciona de la misma manera que LAN, solamente que tienes que cambiar la configuración en el fichero x!TODO!.
+Aquí tenía que decidir si quiero hacer las sesiones por LAN o por Steam. Pero, ya que no tengo dos laptops para probar el juego, decidí usar LAN. Tampoco importa mucho, porque no es muy difícil conectarlo con Steam y funciona de la misma manera que LAN, solamente que tienes que cambiar la configuración del fichero DefaultEngine.ini.
+
+#### Menú Lobby (Jan 10)
+Para entrar en el lobby, en OnlineGameInstance tenemos unas funciones hostSession y joinSession. El hostSession tiene que abrir el nivel de Lobby, y el joinSession automáticamente se une al servidor.
+
+##### Diseño del nivel
+Aquí he seguido el diseño del tutorial, a la derecha hay una venta donde entran los jugadores y vemos los personajes. A la izquierda hay el menú widget, donde los jugadores podrán ver la lista de jugadores. Es importante ponder la visibilidad del canvas en "visible" y no en "not hit-testable" para que el jugador no puede entrar en la ventana a la derecha.
+
+Tuve que añadir un LobbyController y un LobbyCharacter para que no entra la lógica del juego en el nivel del Lobby. En el nivel ponemos 5 PlayerSpawns y una cámara fija desde donde los jugadores pueden ver el Lobby.
+
+##### Botón para empezar el juego
+Aquí necesitamos ejecutar un comando que hace un "servertravel" al nivel con el castillo.
+
+##### Lista de jugadores
+En el lobby también queremos mostrar la lista de jugadores que ha entrado. Para eso necesitamos guardar una lista de estructuras (PlayerInfo) que guardan alguna información sobre el jugador, como el color que ha elegido y su nombre.
+
+Cuando entra un jugador, hay una función "onPostLogin" que lo detecta. Ahí tenemos que ir añadiendo el jugador a la lista de los jugadores conectados, y hacer una lista de PlayerInfo de los mismos jugadores conectados. Aquí también tenemos que usar comunicación adecuada entre los clientes y el servidor.
+
+##### Elegir color
+Ya que no hay un widget para elegir un color, puse 3 controles deslizantes para cada los canales RGB. Aquí también era un poco difícil hacer que estos eventos se comuniquen bien, porque al principio solamente cambiar el color del jugador servidor se mostraba en la lista. La solución era llamar a una función de "run on Server" desde el widget y no desde el controlador. Así que al cambiar el color, desde el widget llamamos a una función que actualiza el nuevo color en el servidor también.
+
+Al salir del lobby y entrar el juego el personaje tiene que tener ese color. Eso lo hacemos por guardar el color en el GameState (ya que este se queda por todos los niveles). Al principio solamente el jugador local podía ver su cambio de color - lo que hacemos poniéndole un material al jugador su malla y el material tiene un parámetro de vector que indica el color. Lo que teníamos que hacer es desde el controlador, llamar a una función del ThirdPersonCharacter con la opción "run on Server" que asigna el color con un RepNotify para que todos los clientes lo "escuchan".
+
+#### Jugador no puede entrar una sesión ya empezada (Jan 14)
+Primero, ese jugador no debería encontrar la sesión, así que el jugador servidor tiene que destruir la sesión. Si alguien ha encontrado esta sesión antes, aún podrá unirse, así que tenemos que averiguar cuando un jugador entra, si no está entrando una sesión ya empezada.
+
+El ThirdPersonGameMode se da cuenta de que alguien ha entrado, y ahí averiguamos si no hay demasiados jugadores (más de lo esperado). Al GameMode le puedes dar unos variables, así que al empezar le podemos pasar cuantos jugadores están en la sesión al principio. Cuando quiere un jugador más, veremos que es más del inicio y tenemos que echar el jugador del juego.
+
+#### Mejorar los widgets (Jan 14)
+Para finalizar los widgets, tuve que aun añadir el código para el botón de salir. También he querido limpiar un poco el diseño de los widgets, como darle colores a los controles deslizantes del lobby, jugar un poco con las proporciones de los otros menús, ...
+
+Además, querría añadir unas pantallas mientras está cargando el juego. Primero, para mostrar que estamos buscando sesiones, ya que antes no mostraba que estaba buscando así que eso puede confundir los usuarios. 
+
+Al mandar los jugadores al juego desde el lobby, el servidor puede ver los jugadores desapareciendo. Por eso añadí una pantalla de carga cuando el servidor presiona el botón para empezar el juego (y en los clientes no, aunque podría ser bien añadir eso también).
 
 ----
 
@@ -107,7 +136,9 @@ Aquí tenía que decidir si quiero hacer las sesiones por LAN o por Steam. Pero,
 **Menús**
 - Al entrar al juego, el jugador se encuentra en el menú inicial donde puede empezar o unirse a una sesión.
 - Después de unirse a una sesión, hay un menú de lobby. Ahí el jugador puede cambiar el color de su personaje. El jugador servidor puede empezar la carrera, mandando los jugadores al nivel con el castillo.
+- Presionando "esc" o "p" el jugador verá un menú pequeño donde puede ir de nuevo al menú principal o salir del juego.
 - Al acabar el juego el jugador ve un menú final, con los tiempos de los otros jugadores que ya se han terminado la carrera. La lista de jugadores se va actualizando mientras más jugadores llegan al fin.
+- Presionando "esc" o "p" en el menú final alterna si puede ver el menú o no.
 
 ### Dinámica
 - El jugador necesita evitar o los objetos enemigos para que no se muera.
